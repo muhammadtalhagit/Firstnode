@@ -1,0 +1,20 @@
+First install notejs--> notejs download
+Click second version "LTS"
+FOr checking installation 
+node -v
+"NPM" npm -v
+Typescript 
+npm install -g typescript
+tsc --version
+npm init
+project name: ""
+npm init -y
+tsc --init 
+"Es2020"
+module "NodeNext"
+
+for convert 
+tsc index.ts
+
+for run
+node index.js
